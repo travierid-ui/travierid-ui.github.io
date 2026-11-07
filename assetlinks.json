@@ -1,1 +1,13 @@
 
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.campus.tiktokchecker",
+      "sha256_cert_fingerprints": [
+        "F8:C4:67:E8:2C:44:B7:02:94:8D:F4:76:50:19:12:4A:94:2F:AD:E5:47:71:60:64:68:B7:73:DE:FA:32:E9:CC"
+      ]
+    }
+  }
+]
